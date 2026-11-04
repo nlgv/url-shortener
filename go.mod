@@ -1,3 +1,3 @@
-module example.com/m/v2
+module github.com/nlgv/url-shortener
 
 go 1.27.2
